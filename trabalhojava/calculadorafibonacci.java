@@ -29,7 +29,7 @@ public class calculadorafibonacci {
             n2 = n3;
             sc.close();
         }
-        System.out.println("<- este é o n-ésimo termo!");
+        System.out.println("<- este é o n-ésimo termo!!!");
     }
 }
 }
